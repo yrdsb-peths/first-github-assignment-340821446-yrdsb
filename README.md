@@ -1,14 +1,13 @@
-# Welcome to our GitHub classroom!
+# First GitHub Assignment
 
-Edit this file by clicking the 'pen' symbol to the right.
-Then answer in the space below each question:
+> 1. First name
 
-1. First name
+Martin
 
-2. Last name
+> 2. Last name
 
-3. Favourite animal
+Baldwin
 
+> 3. Favourite animal
 
-Now click the green 'commit changes' button at the bottom.
-
+I don't think I have a favourite animal. I do like dogs and cats, though.
